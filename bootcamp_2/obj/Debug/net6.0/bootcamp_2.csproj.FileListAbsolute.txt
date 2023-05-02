@@ -1,0 +1,15 @@
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/bin/Debug/net6.0/bootcamp_2
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/bin/Debug/net6.0/bootcamp_2.deps.json
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/bin/Debug/net6.0/bootcamp_2.runtimeconfig.json
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/bin/Debug/net6.0/bootcamp_2.dll
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/bin/Debug/net6.0/bootcamp_2.pdb
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.csproj.AssemblyReference.cache
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.AssemblyInfoInputs.cache
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.AssemblyInfo.cs
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.csproj.CoreCompileInputs.cache
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.dll
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/refint/bootcamp_2.dll
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.pdb
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/bootcamp_2.genruntimeconfig.cache
+/Users/daria/Desktop/Эфективность алгоритма/bootcamp_2/obj/Debug/net6.0/ref/bootcamp_2.dll
